@@ -1,0 +1,2 @@
+# encodertype
+MIPS
